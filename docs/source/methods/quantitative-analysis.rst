@@ -6,7 +6,7 @@ Quantitative sensitivity analysis
 Sobol indices
 -------------
 
-We implement the methods outlined in :cite:`Kucherenko.2012`.
+We implement the methods outlined in [Kucherenko.2012](https://doi.org/10.1016/j.cpc.2011.12.020)
 
 **Constributor:** Tim Mensinger (`timmens <https://github.com/timmens>`_)
 
